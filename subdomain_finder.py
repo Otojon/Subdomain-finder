@@ -13,7 +13,7 @@ print(  "  ______   _______   __    __  ______ ____",
   ,"by @otojonxudayarov"
                                             )
 #ask domain name
-domain=str(input("enter domain name(for example => Google.com): "))
+domain=str(input("enter domain name(for example => google.com): "))
 #use  valid text file to enumerate
 file=open("subdomains.txt")
 sub=file.read()
